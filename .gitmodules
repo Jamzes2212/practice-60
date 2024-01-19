@@ -7,3 +7,6 @@
 [submodule "acheron_Connectors.pretty"]
 	path = acheron_Connectors.pretty
 	url = https://github.com/AcheronProject/acheron_Connectors.pretty
+[submodule "PCB/acheron_Symbols"]
+	path = PCB/acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols
