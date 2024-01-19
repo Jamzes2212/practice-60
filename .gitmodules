@@ -4,3 +4,6 @@
 [submodule "PCB/random-keyboard-parts.pretty"]
 	path = PCB/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "acheron_Connectors.pretty"]
+	path = acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty
